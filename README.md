@@ -16,5 +16,5 @@ React Router
 Vite
 
 Live Demo:
-https://your-project.vercel.app
->>>>>>> 7abe79dfb680574d547157da20f0e206c3130a77
+(https://adobe-xd-24j1-git-main-adityachopdes-projects.vercel.app/)
+
